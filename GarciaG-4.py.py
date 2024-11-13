@@ -1,4 +1,2 @@
 print ("Hola Mundo Jorge Jacinto ")
-
-print ("Alvaro Barrera G3")
-print ("Hola Jacinto - G1")
+print ("Hola Alcantara - G5")
