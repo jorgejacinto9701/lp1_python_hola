@@ -1,2 +1,2 @@
-print ("Hola Mundo Jorge Jacinto ")
-print ("Hola Alcantara - G5")
+print("Hola Mundo Gefrey Charcape")
+print("Hola Charcape - G2")
